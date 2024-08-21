@@ -1,0 +1,14 @@
+.home-box{
+background-image: url("../imgs/Capture.png");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.quote-box{
+    background-color: rgba(0, 0, 0, 0.7);
+    min-height: 65%;
+    border-radius: 20px;
+}
+#quote{
+    padding-top: 20px;
+}
